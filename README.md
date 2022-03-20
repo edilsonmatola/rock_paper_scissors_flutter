@@ -16,11 +16,11 @@ Command line tool that you can play rock, paper and scissors with the computer. 
 dart lib/main.dart
 ```
 
-### Valid Comands(Moves):
+### Commands (Moves):
 
-- "r" - rock
-- "p" - paper
-- "s" - scissor
-- "q" - quit the program
+- **r** - rock
+- **p** - paper
+- **s** - scissor
+- **q** - quit the program
 
-**The game will repeat** until you **quit by** entering **"q".**
+⚠️ **The game will repeat** until you **quit by** entering **"q".**
