@@ -1,3 +1,13 @@
+<details>
+<summary>
+<strong> Read this guide in Portuguese </strong>
+</summary>
+    <ul>
+        <li><a href="./README-PT-BR.md"> Português</a></li>
+    </ul>
+
+</details>
+
 # Rock Paper & Scissors
 
 <p align="center"><img src="./media/rock-paper-scissors.jpg" width="500px" height="500px"></p>
