@@ -1,6 +1,6 @@
 # Rock Paper & Scissors
 
-<p align="center"><img src="./media/rock-paper-scissors.png" width="500px" height="500px"></p>
+<p align="center"><img src="./media/rock-paper-scissors.jpg" width="500px" height="500px"></p>
 
 Command line tool that you can play rock, paper and scissors with the computer. See who wins each round!
 
