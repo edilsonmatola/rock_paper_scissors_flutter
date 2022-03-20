@@ -7,7 +7,7 @@ Command line tool that you can play rock, paper and scissors with the computer. 
 ## Rules of the Game:
 
 - Scissors beats paper.
-- Paper beats pock.
+- Paper beats rock.
 - Rock beats scissors.
 
 ### To run the app, simply write the following command:
