@@ -1,16 +1,26 @@
-# rock_paper_scissors
+# Rock Paper & Scissors
 
-A new Flutter project.
+<p align="center"><img src="./media/rock-paper-scissors.png" width="500px" height="500px"></p>
 
-## Getting Started
+Command line tool that you can play rock, paper and scissors with the computer. See who wins each round!
 
-This project is a starting point for a Flutter application.
+## Rules of the Game:
 
-A few resources to get you started if this is your first Flutter project:
+- Scissors beats paper.
+- Paper beats pock.
+- Rock beats scissors.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### To run the app, simply write the following command:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+dart lib/main.dart
+```
+
+### Valid Comands(Moves):
+
+- "r" - rock
+- "p" - paper
+- "s" - scissor
+- "q" - quit the program
+
+**The game will repeat** until you **quit by** entering **"q".**
